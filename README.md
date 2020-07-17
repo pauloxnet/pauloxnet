@@ -1,4 +1,4 @@
-## About me 👨‍💻
+## Hi, I'm Paolo 👋🏻️ 👨🏻‍💻️
 
 <!--
 **pauloxnet/pauloxnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,19 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Info
+I'm a [*Python*](https://www.paulox.net/tag/python/) developer who contributes to the [*Django*](https://www.paulox.net/tag/django/) project and gives talks at tech [*conferences*](https://www.paulox.net/talks/). I've been a [*GNU/Linux*](https://www.paulox.net/tag/gnulinux/) user since 2000 and I use and promote [*Free&nbsp;Software*](https://www.paulox.net/code/). I have a degree in Computer Science and currently I [work remotely](https://www.paulox.net/tag/remote-work/), in Pescara (Italy), for 20tab as CTO.
 
-I'm Paolo Melchiorre, a [*Python*](https://www.paulox.net/tag/python/) developer who contributes to the [*Django*](https://www.paulox.net/tag/django/) project and gives talks at tech [*conferences*](https://www.paulox.net/talks/).
+## Find me around the web 🌍️
 
-I've been a [*GNU/Linux*](https://www.paulox.net/tag/gnulinux/) user since 2000 and I use and promote [*Free&nbsp;Software*](https://www.paulox.net/code/).
-
-I have a degree in Computer Science and currently I [work remotely](https://www.paulox.net/tag/remote-work/), in Pescara (Italy), for 20tab as CTO.
-
-### Contact Me
-
-*You can reach me through:*
-
-- ☕&nbsp;[www.paulox.net](https://www.paulox.net)
-- 💻&nbsp;[Paolo&nbsp;Melchiorre](https://www.linkedin.com/in/paolomelchiorre/)
-- 🐦&nbsp;[@pauloxnet](https://twitter.com/pauloxnet)
-- 👥&nbsp;[pauloxnet](https://www.facebook.com/pauloxnet)
+- Writing technical articles on [paulox.net](https://www.paulox.net) ✍️
+- Sharing interesting updates on [Twitter](https://twitter.com/pauloxnet) 🐦
+- Answering questions on [StackOveflow](https://stackoverflow.com/users/755343/paolo-melchiorre) 🙋🏻‍♂️️
+- Connecting to other people on [LinkedIn](https://www.linkedin.com/in/paolomelchiorre/) 💼️
