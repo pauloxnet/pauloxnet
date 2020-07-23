@@ -21,7 +21,7 @@ I'm a [*Python*](https://www.paulox.net/tag/python/) developer who contributes t
 
 ## Find me around the web 🌍️
 
-- Writing technical articles on [paulox.net](https://www.paulox.net) ✍️
-- Sharing interesting updates on [Twitter](https://twitter.com/pauloxnet) 🐦
-- Answering questions on [StackOveflow](https://stackoverflow.com/users/755343/paolo-melchiorre) 🙋🏻‍♂️️
-- Connecting to other people on [LinkedIn](https://www.linkedin.com/in/paolomelchiorre/) 💼️
+- Writing technical articles on my blog ✍️ [paulox.net](https://www.paulox.net)
+- Sharing interesting updates on Twitter 🐦 [@pauloxnet](https://twitter.com/pauloxnet)
+- Answering questions on StackOveflow 🙋🏻‍♂️️ [@paolo-melchiorre](https://stackoverflow.com/users/755343/paolo-melchiorre)
+- Connecting to other people on LinkedIn 💼️ [paolomelchiorre](https://www.linkedin.com/in/paolomelchiorre/)
