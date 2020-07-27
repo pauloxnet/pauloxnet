@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![© 2019 DjangoCon CC (BY-NC-SA) "Paolo Melchiorre presenting his talk at DjangoCon Europe 2019 in Copenhagen (Denmark)"](https://raw.githubusercontent.com/pauloxnet/pauloxnet/master/github-header-pauloxnet.jpg)
+[![© 2019 DjangoCon CC (BY-NC-SA) "Paolo Melchiorre presenting his talk at DjangoCon Europe 2019 in Copenhagen (Denmark)"](https://raw.githubusercontent.com/pauloxnet/pauloxnet/master/github-header-pauloxnet.jpg)](https://www.paulox.net)
 
 I'm a [*Python*](https://www.paulox.net/tag/python/) developer who contributes to the [*Django*](https://www.paulox.net/tag/django/) project and gives talks at tech [*conferences*](https://www.paulox.net/talks/). I've been a [*GNU/Linux*](https://www.paulox.net/tag/gnulinux/) user since 2000 and I use and promote [*Free&nbsp;Software*](https://www.paulox.net/code/). I have a degree in Computer Science and currently I [work remotely](https://www.paulox.net/tag/remote-work/), in Pescara (Italy), for 20tab as CTO.
 
