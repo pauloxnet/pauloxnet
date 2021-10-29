@@ -25,3 +25,9 @@ I'm a [*Python*](https://www.paulox.net/tag/python/) developer who contributes t
 - Sharing interesting updates on Twitter 🐦 [@pauloxnet](https://twitter.com/pauloxnet)
 - Answering questions on StackOveflow 🙋🏻‍♂️️ [@paolo-melchiorre](https://stackoverflow.com/users/755343/paolo-melchiorre)
 - Connecting to other people on LinkedIn 💼️ [paolomelchiorre](https://www.linkedin.com/in/paolomelchiorre/)
+
+## Stats 📊
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloxnet&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Paolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloxnet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
