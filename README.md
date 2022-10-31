@@ -22,7 +22,7 @@ I'm a [*Python*](https://www.paulox.net/tag/python/) developer who contributes t
 ## Find me around the web 🌍️
 
 - Writing technical articles on my blog ✍️ [paulox.net](https://www.paulox.net)
-- Exchanging toots on Mastodon 🐘 <a rel="me" href="https://fosstodon.org/@paulox">@paulox@fosstodon.org</a>
+- Exchanging toots on Mastodon 🐘 <a rel="me" href="https://fosstodon.org/@paulox">@paulox</a>
 - Sharing interesting updates on Twitter 🐦 [@pauloxnet](https://twitter.com/pauloxnet)
 - Answering questions on StackOveflow 🙋🏻‍♂️️ [@paolo-melchiorre](https://stackoverflow.com/users/755343/paolo-melchiorre)
 - Connecting to other people on LinkedIn 💼️ [paolomelchiorre](https://www.linkedin.com/in/paolomelchiorre/)
