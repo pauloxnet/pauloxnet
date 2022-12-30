@@ -1,4 +1,4 @@
-## Hi, I'm Paolo Melchiorre (aka paulox) 👋🏻️ 👨🏻‍💻️
+## Hi, I'm Paolo Melchiorre (aka paulox) 👋 👨‍💻
 
 [![© 2022 Bartek Pawlik (CC BY-NC-SA) “Paolo Melchiorre giving his talk at DjangoCon US 2022 in San Diego (USA)”](https://raw.githubusercontent.com/pauloxnet/pauloxnet/master/github-header-pauloxnet.webp)](https://www.paulox.net)
 
