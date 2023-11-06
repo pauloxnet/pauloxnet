@@ -1,7 +1,12 @@
 ## Hi, I'm Paolo Melchiorre (aka paulox) 👋 👨‍💻
 
-[![© 2022 Bartek Pawlik (CC BY-NC-SA) “Paolo Melchiorre giving his talk at DjangoCon US 2022 in San Diego (USA)”](https://raw.githubusercontent.com/pauloxnet/pauloxnet/master/github-header-pauloxnet.webp)](https://www.paulox.net)
-
+<figure>
+<a href="https://www.paulox.net" rel="me nofollow">
+  <img src="https://raw.githubusercontent.com/pauloxnet/pauloxnet/master/github-header-pauloxnet.webp" alt="© 2022 Bartek Pawlik (CC BY-NC-SA) “Paolo Melchiorre giving his talk at DjangoCon US 2022 in San Diego (USA)”" style="max-width: 100%;">
+</a>
+<figcaption>© 2022 Bartek Pawlik (CC BY-NC-SA) “Paolo Melchiorre giving his talk at DjangoCon US 2022 in San Diego (USA)”</figcaption>
+</figure>
+<hr/>
 I’m Paolo Melchiorre, a longtime Python backend developer who contributes to the Django project and gives talks at tech conferences.
 
 I’ve been a GNU/Linux user for over 20 years and I use and promote Free Software.
