@@ -13,7 +13,7 @@ I’ve been a GNU/Linux user for over 20 years and I use and promote Free Softwa
 
 I graduated in Software Engineering and I’m an alumnus of the University of Bologna, Italy.
 
-I’ve been working in the web for 15 years and now I’m the CTO of 20tab, a pythonic software company, for which I work remotely.
+I’ve been working in the web since 2006 years and I work remotely since 2015.
 
 ## Find me around the web 🌍️
 
