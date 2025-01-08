@@ -7,13 +7,13 @@
 <figcaption>© 2023 Bartek Pawlik (CC BY-NC-SA) “Paolo Melchiorre giving his talk at DjangoCon US 2023 in Durham (USA)”</figcaption>
 </figure>
 <hr/>
-I’m Paolo Melchiorre, a longtime Python backend developer who contributes to the Django project and gives talks at tech conferences.
+I’m <strong>Paolo Melchiorre</strong> (aka <code>paulox</code>) — <strong>Python</strong> backend developer, <strong>Django</strong> contributor, and <strong><abbr title="Python Software Foundation">PSF</abbr></strong> Fellow.
 
-I’ve been a GNU/Linux user for over 20 years and I use and promote Free Software.
+<strong><abbr title="Django Software Foundation">DSF</abbr></strong> Director, **Django Girls+** coach and organizer, and proud **Djangonaut Space** navigator.
 
-I graduated in Software Engineering and I’m an alumnus of the University of Bologna, Italy.
+Organize <strong>PyCon Italia</strong>, founded <strong>Python Pescara</strong>, and I’m a <strong>Python Italia</strong> member.
 
-I’ve been working in the web since 2006 years and I work remotely since 2015.
+Also, a conference <strong>speaker</strong>, GNU/Linux user, Free Software advocate, <abbr title="The oldest university in continuous operation in the world.">University of Bologna</abbr> alumnus, Computer Engineer and technical <strong>blogger</strong>.
 
 ## Find me around the web 🌍️
 
