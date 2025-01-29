@@ -15,16 +15,16 @@ Organize <strong>PyCon Italia</strong>, founded <strong>Python Pescara</strong>,
 
 Also, a conference <strong>speaker</strong>, GNU/Linux user, Free Software advocate, <abbr title="The oldest university in continuous operation in the world.">University of Bologna</abbr> alumnus, Computer Engineer and technical <strong>blogger</strong>.
 
-## Find me around the web 🌍️
+## Contatcs 🌍️
 
-- Writing technical articles on my blog ✍️ [paulox.net](https://www.paulox.net)
-- Exchanging toots on Mastodon 🦣 <a rel="me" href="https://fosstodon.org/@paulox">@paulox@fosstodon.org</a>
-- Answering questions on StackOveflow 🙋🏻‍♂️️ [@paolo-melchiorre](https://stackoverflow.com/users/755343/paolo-melchiorre)
-- Connecting to other people on LinkedIn 💼️ [paolomelchiorre](https://www.linkedin.com/in/paolomelchiorre/)
-- Sharing interesting updates on Twitter 🐦 [@pauloxnet](https://twitter.com/pauloxnet)
+You can reach me through:
 
-## Stats 📊
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloxnet&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Paolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloxnet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- 🌐 <a rel="me" href="https://www.paulox.net">www.paulox.net</a>
+- ⛰️ <a rel="me" href="https://codeberg.org/pauloxnet">codeberg.org/pauloxnet</a>
+- 🦣 <a rel="me" href="https://fosstodon.org/@paulox">fosstodon.org/@paulox</a>
+- 📸 <a rel="me" href="https://pixelfed.social/paulox">pixelfed.social/paulox</a>
+- 🙋🏻‍♂️️ <a rel="me" href="https://stackoverflow.com/users/755343/paolo-melchiorrex">stackoverflow.com/users/755343/paolo-melchiorre</a>
+- ▶️ <a rel="me" href="https://www.youtube.com/@pauloxnet">youtube.com/@pauloxnet</a>
+- 💼️ <a rel="me" href="https://www.linkedin.com/in/paolomelchiorre/">linkedin.com/in/paolomelchiorre/</a>
+- 🐦 <a rel="me" href="https://twitter.com/pauloxnet">twitter.com/pauloxnet</a>
+- 🦋 <a rel="me" href="https://bsky.app/profile/paulox.net">bsky.app/profile/paulox.net</a>
